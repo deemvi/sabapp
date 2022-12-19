@@ -1,0 +1,6 @@
+.photo-menu{
+    width: 7rem;
+    height: 7rem;
+    object-fit: cover;
+    border-radius: 6px;
+}
